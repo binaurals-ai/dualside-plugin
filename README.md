@@ -33,8 +33,10 @@ costs 10 more. Opening a practice is free; each practice email costs 4 + 4 and t
 Company research costs 10. Credits come back when a step fails.
 
 ## Your data
-Dualside keeps each session encrypted for 24 hours. Practices from a strategy are saved to your Dualside account;
-a real email thread you practice is never saved. Privacy policy: https://dualside.ai/privacy-policy
+A strategy you start in Claude is saved, encrypted, as a conversation in your Dualside account, so you can continue
+it on dualside.ai or in the same Claude chat; delete it there any time. Emails, messages, documents and transcripts
+Claude shares for a read, and an email thread you practice, are kept 24 hours only and never saved. Practices from a
+strategy are saved to your account. Privacy policy: https://dualside.ai/privacy-policy
 
 ## Support
 support@dualside.ai
