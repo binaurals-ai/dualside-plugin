@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dualside": {
+      "type": "http",
+      "url": "https://dualside.ai/mcp"
+    }
+  }
+}
