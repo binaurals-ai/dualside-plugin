@@ -1,7 +1,7 @@
 {
   "name": "dualside",
   "displayName": "Dualside",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "Dualside, AI built specifically for B2B negotiation, in Claude: a negotiation strategy for your deal in Dualside's own card.",
   "author": { "name": "Dualside", "url": "https://dualside.ai", "email": "support@dualside.ai" },
   "homepage": "https://dualside.ai",
