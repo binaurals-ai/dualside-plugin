@@ -7,6 +7,12 @@ each in Dualside's own card in your chat.
 ## What you need
 - A paid Dualside plan at https://dualside.ai, with a work email. Dualside uses credits from your account.
 - The Claude apps. Not Claude Code: Dualside's sign-in returns only to claude.ai.
+- In Claude, Settings → Capabilities → "Create and edit files" turned on, so Claude can use this plugin's skill.
+
+## Set it up
+1. Add the plugin: Customize → Plugins.
+2. Open Dualside, select its Connectors tab, and click Connect. Adding the plugin doesn't connect Dualside by itself.
+3. Sign in to Dualside with your work email and click Allow. The Connectors tab then shows Connected.
 
 ## How it works
 Tell Claude about a deal you're working on. Claude offers Dualside and starts it only when you say yes or ask
@@ -39,7 +45,7 @@ Claude shares for a read, and an email thread you practice, are kept 24 hours on
 strategy are saved to your account. Privacy policy: https://dualside.ai/privacy-policy
 
 ## Support
-support@dualside.ai
+Help: https://dualside.ai/claude · support@dualside.ai
 
 ## License
 MIT
