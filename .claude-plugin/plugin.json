@@ -1,8 +1,9 @@
 {
   "name": "dualside",
   "displayName": "Dualside",
-  "version": "1.0.0",
-  "description": "Dualside, AI built specifically for B2B negotiation, in Claude: a negotiation strategy for your deal in Dualside's own card.",
+  "version": "1.0.1",
+  "description": "AI built specifically for B2B negotiation. Get your next move or a full strategy, a read on emails, call transcripts and proposals, and practice against the other side, all in Dualside's own card.",
+  "keywords": ["negotiation", "sales", "procurement", "customer success", "b2b", "deals"],
   "author": { "name": "Dualside", "url": "https://dualside.ai", "email": "support@dualside.ai" },
   "homepage": "https://dualside.ai",
   "repository": "https://github.com/binaurals-ai/dualside-plugin",
